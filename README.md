@@ -9,9 +9,10 @@ These instructions will get you a copy of the project up and running on your loc
 ### Prerequisities
 
 docker
-git
-github account
 
+git
+
+github account
 
 ### Cloning the GitHub Repository
 
