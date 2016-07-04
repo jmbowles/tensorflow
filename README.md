@@ -17,7 +17,9 @@ github account
 ### Cloning the GitHub Repository
 
 open a command prompt
+
 cd to directory where project will be placed
+
 git clone https://github.com/jmbowles/tensorflow.git
 
 
